@@ -13,11 +13,9 @@
 <a href="https://react.dev/"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
 <a href="https://nextjs.org/learn" >
-<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js logo"  width="120" height="100" title="Next.js documentation" fill='white'>
+<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js logo"  width="120" height="100" title="Next.js documentation">
 </a>
-<a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" alt="react" height="100" title="NestJS documentation"></a>
-
-<!-- <a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a> -->
+<a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" height="100" title="NestJS documentation"></a>
 
 # 💻 My favorite tools and technologies
 
