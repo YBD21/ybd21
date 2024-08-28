@@ -13,8 +13,8 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <a href="https://react.dev/"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
-<a href="https://nextjs.org/learn" style="background-color: white; display: inline-block; padding:0 8px; margin:10px 15px 0px 5px; border-radius:20%;">
-<img src="./assets/nextjs.svg" alt="Next.js logo" height="80" title="Next.js documentation">
+<a href="https://nextjs.org/learn" >
+<img src="./assets/nextjs.svg" alt="Next.js logo" height="100" title="Next.js documentation">
 </a>
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=nestjs" alt="react" height="100" title="NestJS documentation"></a>
 </div>
