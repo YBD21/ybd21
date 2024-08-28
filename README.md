@@ -10,11 +10,11 @@
 
 # Main Skills
 
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: center; justify-content: space-between;">
 <a href="https://react.dev/"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
 <a href="https://nextjs.org/learn" >
-<img src="./assets/nextjs.svg" alt="Next.js logo" height="100" title="Next.js documentation">
+<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js logo" width="100" height="100" title="Next.js documentation" fill='white'>
 </a>
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=nestjs" alt="react" height="100" title="NestJS documentation"></a>
 </div>
