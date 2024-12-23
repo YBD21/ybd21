@@ -5,7 +5,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=ybd21&&style=flat-square)
 
 <p>
-- 🔭 Full-stack developer with 1 year of experience designing and building web applications</p>
+- 🔭 Full-stack developer with experience designing and building web applications</p>
 <p>- 🌱 Proficient in front-end technologies like React,Next, as well as back-end technologies like Node.js,Express, and Nest</p>
 
 # Main Skills
