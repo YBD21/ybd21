@@ -63,7 +63,7 @@
       <br>TypeScript
     </td>
      <td align="center" width="96">
-        <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="icon" width="65" height="65" style="background-color: white; border-radius:50%; border:solid white 0.5px"/>
+        <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="icon" width="65" height="65" style="background-color: white !important; border-radius:50%; border:solid white 0.5px"/>
       <br>NextJS
     </td>
     <td align="center" width="96">
