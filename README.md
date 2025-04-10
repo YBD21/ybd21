@@ -10,20 +10,20 @@
 
 # Main Skills
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <a href="https://react.dev/">
-    <img src="./assets/react.svg" alt="react" height="100" title="React documentation"/>
+<p align="center">
+  <a href="https://react.dev/" style="text-decoration: none;">
+    <img src="./assets/react.svg" alt="react" height="100" title="React documentation" style="margin: 10px"/>
   </a>
-  <a href="https://nodejs.org/en/docs/guides">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="node" height="100" title="Node documentation"/>
+  <a href="https://nodejs.org/en/docs/guides" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="node" height="100" title="Node documentation" style="margin: 10px"/>
   </a>
-  <a href="https://nextjs.org/learn">
-    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" height="100" title="Next.js documentation" style="background-color: white; border-radius: 50%; padding: 5px;"/>
+  <a href="https://nextjs.org/learn" style="text-decoration: none;">
+    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" height="100" title="Next.js documentation" style="margin: 10px; background-color: white; border-radius: 50%; padding: 5px;"/>
   </a>
-  <a href="https://nestjs.com/">
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" height="100" title="NestJS documentation"/>
+  <a href="https://nestjs.com/" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" height="100" title="NestJS documentation" style="margin: 10px"/>
   </a>
-</div>
+</p>
 
 # 💻 My favorite tools and technologies
 
