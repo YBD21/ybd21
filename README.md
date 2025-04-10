@@ -10,12 +10,20 @@
 
 # Main Skills
 
-<a href="https://react.dev/"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
-<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
-<a href="https://nextjs.org/learn" >
-<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js logo"  width="120" height="100" title="Next.js documentation">
-</a>
-<a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" height="100" title="NestJS documentation"></a>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <a href="https://react.dev/">
+    <img src="./assets/react.svg" alt="react" height="100" title="React documentation"/>
+  </a>
+  <a href="https://nodejs.org/en/docs/guides">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="node" height="100" title="Node documentation"/>
+  </a>
+  <a href="https://nextjs.org/learn">
+    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" height="100" title="Next.js documentation" style="background-color: white; border-radius: 50%; padding: 5px;"/>
+  </a>
+  <a href="https://nestjs.com/">
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" height="100" title="NestJS documentation"/>
+  </a>
+</div>
 
 # 💻 My favorite tools and technologies
 
@@ -146,8 +154,6 @@
 
 ✨ I am a team player and enjoy collaborating with others to achieve a common goal.
 
-✨ Outside of work, I am an avid sports fan, especially when it comes to football.
-
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
 
 ✨ Preferred JS frameworks ✔TypeScript, ✔Next.js, ✔React.js, ✔Nest.js
@@ -156,28 +162,28 @@
 
 ✨ Database options ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL
 
-✨ Web hosting options ✔ Azure service ✔ AWS Services - EC2, S3, and Lambda
+<!-- ✨ Web hosting options ✔ Azure service ✔ AWS Services - EC2, S3, and Lambda -->
 
 ✨ Payment gateway integration ✔Stripe, ✔PayPal ✔IME-PAY ✔E-sewa ✔Khalti
 
 <br/>
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats: -->
 
-![](https://github-readme-stats.vercel.app/api?username=ybd21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=ybd21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seniorcoder72&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ybd21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ybd21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-### 🏆 GitHub Trophies
+<!-- ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ybd21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ybd21&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=ybd21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ybd21&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 <br/>
