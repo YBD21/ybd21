@@ -10,20 +10,23 @@
 
 # Main Skills
 
-<p align="center">
-  <a href="https://react.dev/" style="text-decoration: none;">
-    <img src="./assets/react.svg" alt="react" height="100" title="React documentation" style="margin: 10px"/>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/react.svg" alt="React" height="100" title="React documentation"/>
   </a>
-  <a href="https://nodejs.org/en/docs/guides" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="node" height="100" title="Node documentation" style="margin: 10px"/>
+  <a href="https://nodejs.org/en/docs/guides" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="100" title="Node.js documentation"/>
   </a>
-  <a href="https://nextjs.org/learn" style="text-decoration: none;">
-    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" height="100" title="Next.js documentation" style="margin: 10px; background-color: white; border-radius: 50%; padding: 5px;"/>
+  <a href="https://nextjs.org/learn" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" 
+     alt="Next.js" 
+     height="100" 
+     class="background-white"/>
   </a>
-  <a href="https://nestjs.com/" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" height="100" title="NestJS documentation" style="margin: 10px"/>
+  <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" height="100" title="NestJS documentation"/>
   </a>
-</p>
+</div>
 
 # 💻 My favorite tools and technologies
 
